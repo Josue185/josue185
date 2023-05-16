@@ -14,7 +14,7 @@ Here are some ideas to get you started:
   <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josue185&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
-<div style="display: flex;">
+<div style="display: block;">
   <img align="center" alt="Josue-JavaScrpit" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Josue-HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Josue-CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 </a>
  
   <a href="https://www.linkedin.com/in/josue-santos-domingues/" target="_blank">
-  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  <img align="center" alt="Josue-Linkedin" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
 
