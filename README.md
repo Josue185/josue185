@@ -10,6 +10,6 @@ Here are some ideas to get you started:
 -->
 <div>
   <a href="https://github.com/Josue185">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VitorMariano-dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=VitorMariano-dev&layout=compact&langs_count=7&theme=cobalt"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JosueSantos-dev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em"   src="https://github-readme-stats.vercel.app/api/top-langs/?username=JsoueSantos-dev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
